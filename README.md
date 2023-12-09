@@ -10,8 +10,6 @@ Learning, in the big world of programming
 
 * * *
 
-<center>
-
 ## My Expertise
 
 <img alt="C" src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
@@ -39,4 +37,3 @@ Learning, in the big world of programming
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-</center>
