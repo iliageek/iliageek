@@ -10,6 +10,17 @@ Learning, in the big world of programming
 
 * * *
 
+<h1>
+<p align="center">
+CS50x & CS50P Certificates - Harvard University
+</p>
+</h1>
+
+<p>
+<img src="CS50x.png" width="558.85">
+<img src="CS50P.png" width="558.85">
+</p>
+
 ## My Expertise
 
 <p>
