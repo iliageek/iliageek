@@ -17,9 +17,11 @@ CS50x & CS50P Certificates - Harvard University
 </h1>
 
 <p>
-<img src="CS50x.png" width="558.85">
-<img src="CS50P.png" width="558.85">
+<img src="CS50x.png" width="450">
+<img src="CS50P.png" width="450">
 </p>
+
+* * *
 
 ## My Expertise
 
