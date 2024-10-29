@@ -26,7 +26,7 @@ CS50x & CS50P Certificates - Harvard University
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,vim,neovim,html,css,py,bootstrap,ps,ai">
+    <img src="https://skillicons.dev/icons?i=git,vim,neovim,py,html,css,bootstrap,ps,ai">
   </a>
 </p>
 
