@@ -1,11 +1,10 @@
-
 <h1 align="center">
-  Ilia Asadi
+  Ilia Geek
 </h1>
 
-<h6 align="center">Hey, I'm Ilia!
+<h6 align="center">Hello, World!
 <br>
-Learning, in the big world of programming
+Geek, Programmer, Metalhead, Linux & Freedom Lover
 </h4>
 
 * * *
@@ -23,14 +22,13 @@ CS50x & CS50P Certificates - Harvard University
 
 * * *
 
-## My Expertise
+## My Specialties
 
-<p>
-<img alt="C" src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,html,css,Bootstrap.svg"/>
+  </a>
 </p>
 
 ## Learning...
