@@ -51,7 +51,7 @@ CS50x & CS50P Certificates - Harvard University
     <a href="https://www.gitlab.com/iliageek">
     <img src="https://skillicons.dev/icons?i=gitlab">
   </a>
-      <a href="iliaasadi01@gmail.com">
+      <a href="https://www.gmail.com/iliaasadi01@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail">
   </a>
 </p>
