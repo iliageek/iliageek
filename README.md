@@ -2,6 +2,13 @@
   Ilia Geek
 </h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;This+is+Ilia+Geek.&center=true&size=30">
+  </a>
+</h1>
+
+
 <h6 align="center">Hello, World!
 <br>
 Geek, Programmer, Metalhead, Linux & Freedom Lover.
@@ -50,8 +57,5 @@ CS50x & CS50P Certificates - Harvard University
   </a>
     <a href="https://www.gitlab.com/iliageek">
     <img src="https://skillicons.dev/icons?i=gitlab">
-  </a>
-      <a href="https://www.gmail.com/iliaasadi01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail">
   </a>
 </p>
