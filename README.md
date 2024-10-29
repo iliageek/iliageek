@@ -4,7 +4,7 @@
 
 <h6 align="center">Hello, World!
 <br>
-Geek, Programmer, Metalhead, Linux & Freedom Lover
+Geek, Programmer, Metalhead, Linux & Freedom Lover.
 </h4>
 
 * * *
@@ -24,32 +24,32 @@ CS50x & CS50P Certificates - Harvard University
 
 ## My Specialties
 
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,html,css,Bootstrap.svg"/>
+  <a>
+    <img src="https://skillicons.dev/icons?i=git,vim,neovim,html,css,py,bootstrap,ps,ai">
   </a>
-</p>
-
-## Learning...
-
-<p>
-<img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## My Social Networks
 
-<p>
-<a href="https://instagram.com/iliaasadiii">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@iliaasadiii">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-
-<a href="https://t.me/iliaasadiii">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.instagram.com/iliageek">
+    <img src="https://skillicons.dev/icons?i=instagram">
+  </a>
+    <a href="https://www.x.com/iliageek">
+    <img src="https://skillicons.dev/icons?i=twitter">
+  </a>
+    </a>
+    <a href="https://www.linkedin.com/in/ilia-asadi-097271335">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+    <a href="https://www.github.com/iliageek">
+    <img src="https://skillicons.dev/icons?i=github">
+  </a>
+    <a href="https://www.gitlab.com/iliageek">
+    <img src="https://skillicons.dev/icons?i=gitlab">
+  </a>
+      <a href="iliaasadi01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail">
+  </a>
 </p>
