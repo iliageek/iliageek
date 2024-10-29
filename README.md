@@ -22,7 +22,7 @@ CS50x & CS50P Certificates - Harvard University
 
 * * *
 
-## My Specialties
+<h1 align="center"> My Specialties </h1>
 
 <p align="center">
   <a>
@@ -30,7 +30,9 @@ CS50x & CS50P Certificates - Harvard University
   </a>
 </p>
 
-## My Social Networks
+<br>
+
+<h1 align="center"> My Social Networks </h1>
 
 <p align="center">
   <a href="https://www.instagram.com/iliageek">
