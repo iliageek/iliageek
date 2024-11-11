@@ -58,7 +58,7 @@ CS50x & CS50P Certificates - Harvard University
     <a href="https://www.gitlab.com/iliageek">
     <img src="https://skillicons.dev/icons?i=gitlab">
   </a>
-  <a href="https://mastodon.social/@iliageek">
+  <a href="https://khiar.net/@iliageek">
     <img src="https://skillicons.dev/icons?i=mastodon">
   </a>
 </p>
