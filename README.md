@@ -11,7 +11,7 @@
 
 <h6 align="center">Hello, World!
 <br>
-Geek, Programmer, Metalhead, Linux & Freedom Lover.
+Geek, Musician, Programmer, { Linux, Art, Philosophy & Freedom Lover }
 </h4>
 
 * * *
